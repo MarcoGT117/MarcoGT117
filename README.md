@@ -1,4 +1,4 @@
-Hi! I'm Marco
+Hi! I'm Marco <br>
 I started my journey into the web devolopement world in mid-2021. <br>
 So far I feel confident on my HTML and CSS skills, and I've also collaberated in small projects using Java, Spring boot and MySQL while using Bootstrap on the frontend. <br>
 Currently, I'm polishing my skills on JavaScript and learning React.js.<br>
